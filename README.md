@@ -1,2 +1,2 @@
-first file
-feature branch edit
+line 1
+conflict test
